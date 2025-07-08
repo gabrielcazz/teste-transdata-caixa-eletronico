@@ -13,8 +13,8 @@ Este projeto é uma solução para o desafio de desenvolvimento que simula o fun
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/desafio-caixa-eletronico.git](https://github.com/SEU-USUARIO/desafio-caixa-eletronico.git)
-    cd desafio-caixa-eletronico
+    git clone [https://github.com/gabrielcazz/teste-transdata-caixa-eletronico.git](https://github.com/gabrielcazz/teste-transdata-caixa-eletronico.git)
+    cd teste-transdata-caixa-eletronico
     ```
 
 2.  **Execute o Programa**
